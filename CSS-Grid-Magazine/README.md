@@ -1,3 +1,0 @@
-End result:
-
-<img src="">
